@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+.logo{
+    width: 400px;
+    border-radius: 22px;
+}
+
+.btn-outline-dark{
+    color: #979899;
+    border-color: #979899;
+    border-radius: 22px;
+}
